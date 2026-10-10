@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 40" role="img" aria-label="Тишь">
+  <!-- Знак: чашка сверху и шов кофейного зерна -->
+  <g fill="none" stroke="#3B2A20" stroke-width="1.5" stroke-linecap="round">
+    <circle cx="20" cy="20" r="18.25"/>
+    <path d="M20 6.5c-6 5-6 9.5 0 13.5s6 8.5 0 13.5"/>
+  </g>
+  <!-- Название -->
+  <text x="52" y="30" fill="#3B2A20" font-family="'Cormorant Garamond', 'Playfair Display', Georgia, serif" font-size="30" letter-spacing=".6">Тишь</text>
+</svg>
